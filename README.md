@@ -51,14 +51,12 @@ To protect the intellectual property of the proposed method while supporting rep
 The following components are fully open-source:
 
 - Data loading and preprocessing
-- Parameter configuration
 - Result visualization
 - Evaluation and demonstration scripts
 
 以下内容完全开源：
 
 - 数据读取与预处理
-- 参数配置
 - 结果可视化
 - 实验演示与评价程序
 
@@ -88,13 +86,9 @@ The binary module provides the complete matching functionality without directly 
 ### 1. Clone the repository / 克隆仓库
 
 ```bash
-git clone https://github.com/yourname/DTGH_SSW.git
+git clone [https://github.com/yourname/DTGH_SSW.git](https://github.com/TweepingH/DTGH_SSW)
 cd DTGH_SSW
 ```
-
-Replace the placeholder URL with the official repository address after release.
-
-正式发布后，请将上述占位地址替换为实际仓库地址。
 
 ### 2. Open the project in MATLAB / 在 MATLAB 中打开项目
 
@@ -164,9 +158,9 @@ twh10355@nudt.edu.cn
 
 ## Citation / 引用
 
-If you use this code in your research, please cite the corresponding paper. The bibliographic information below should be updated after the DOI, volume, issue, and page numbers become available.
+If you use this code in your research, please cite the corresponding paper.
 
-如果您在研究中使用本代码，请引用对应论文。DOI、卷期与页码正式确定后，请更新以下文献信息。
+如果您在研究中使用本代码，请引用对应论文。
 
 ```bibtex
 @article{Tong2026DTGHSSW,
